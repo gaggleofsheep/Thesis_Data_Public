@@ -1,0 +1,77 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 1.0666666666666667,
+            "hit_frame": 32,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 0.9666666666666667,
+            "hit_frame": 29,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 1.8333333333333333,
+            "hit_frame": 55,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 3.6333333333333333,
+            "hit_frame": 109,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 4.1,
+            "hit_frame": 122,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 5.2,
+            "hit_frame": 156,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 6.433333333333334,
+            "hit_frame": 193,
+            "shot_number": 6
+        },
+        {
+            "hit_time": 6.966666666666667,
+            "hit_frame": 209,
+            "shot_number": 7
+        },
+        {
+            "hit_time": 7.733333333333333,
+            "hit_frame": 232,
+            "shot_number": 8
+        },
+        {
+            "hit_time": 8.833333333333334,
+            "hit_frame": 265,
+            "shot_number": 9
+        },
+        {
+            "hit_time": 10.0,
+            "hit_frame": 300,
+            "shot_number": 10
+        },
+        {
+            "hit_time": 11.066666666666666,
+            "hit_frame": 332,
+            "shot_number": 11
+        },
+        {
+            "hit_time": 11.433333333333334,
+            "hit_frame": 343,
+            "shot_number": 12
+        }
+    ],
+    "name": "YANG_5_LEE Z.J._13_set_2",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/QF_R16_R32/R16 _ All England Open 2022 _ Brian Yang (CAN) vs Lee Zii Jia (MAS) [6]_OUTPUT/YANG_5_LEE Z.J._13_set_2.mp4",
+    "top_player": "LEE Z.J.",
+    "bottom_player": "set",
+    "top_player_score": 13,
+    "bottom_player_score": 2,
+    "set_number": 5
+}

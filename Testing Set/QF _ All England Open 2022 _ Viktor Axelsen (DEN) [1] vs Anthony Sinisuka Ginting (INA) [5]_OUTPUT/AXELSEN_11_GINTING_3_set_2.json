@@ -1,0 +1,82 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 0.5,
+            "hit_frame": 15,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 1.6,
+            "hit_frame": 48,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 2.3666666666666667,
+            "hit_frame": 71,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 3.1333333333333333,
+            "hit_frame": 94,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 3.966666666666667,
+            "hit_frame": 119,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 4.966666666666667,
+            "hit_frame": 149,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 5.7,
+            "hit_frame": 171,
+            "shot_number": 6
+        },
+        {
+            "hit_time": 6.3,
+            "hit_frame": 189,
+            "shot_number": 7
+        },
+        {
+            "hit_time": 7.233333333333333,
+            "hit_frame": 217,
+            "shot_number": 8
+        },
+        {
+            "hit_time": 7.966666666666667,
+            "hit_frame": 239,
+            "shot_number": 9
+        },
+        {
+            "hit_time": 9.033333333333333,
+            "hit_frame": 271,
+            "shot_number": 10
+        },
+        {
+            "hit_time": 10.2,
+            "hit_frame": 306,
+            "shot_number": 11
+        },
+        {
+            "hit_time": 10.666666666666666,
+            "hit_frame": 320,
+            "shot_number": 12
+        },
+        {
+            "hit_time": 11.5,
+            "hit_frame": 345,
+            "shot_number": 13
+        }
+    ],
+    "name": "AXELSEN_11_GINTING_3_set_2",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/QF_R16_R32/QF _ All England Open 2022 _ Viktor Axelsen (DEN) [1] vs Anthony Sinisuka Ginting (INA) [5]_OUTPUT/AXELSEN_11_GINTING_3_set_2.mp4",
+    "top_player": "GINTING",
+    "bottom_player": "set",
+    "top_player_score": 3,
+    "bottom_player_score": 2,
+    "set_number": 11
+}

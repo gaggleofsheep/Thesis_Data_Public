@@ -1,0 +1,436 @@
+{
+    "rally_array": [
+        {
+            "start_time": 474.09999999999997,
+            "end_time": 490.23333333333335,
+            "score_top": 0,
+            "score_bottom": 0,
+            "set_number": 1
+        },
+        {
+            "start_time": 503.8666666666667,
+            "end_time": 511.46666666666664,
+            "score_top": 0,
+            "score_bottom": 1,
+            "set_number": 1
+        },
+        {
+            "start_time": 529.7666666666667,
+            "end_time": 545.7333333333333,
+            "score_top": 1,
+            "score_bottom": 1,
+            "set_number": 1
+        },
+        {
+            "start_time": 561.0,
+            "end_time": 568.6333333333333,
+            "score_top": 1,
+            "score_bottom": 2,
+            "set_number": 1
+        },
+        {
+            "start_time": 610.1333333333333,
+            "end_time": 625.4,
+            "score_top": 1,
+            "score_bottom": 3,
+            "set_number": 1
+        },
+        {
+            "start_time": 642.5,
+            "end_time": 656.1,
+            "score_top": 2,
+            "score_bottom": 3,
+            "set_number": 1
+        },
+        {
+            "start_time": 673.3,
+            "end_time": 690.3,
+            "score_top": 3,
+            "score_bottom": 3,
+            "set_number": 1
+        },
+        {
+            "start_time": 707.1666666666666,
+            "end_time": 719.8,
+            "score_top": 3,
+            "score_bottom": 4,
+            "set_number": 1
+        },
+        {
+            "start_time": 736.1333333333333,
+            "end_time": 745.1333333333333,
+            "score_top": 3,
+            "score_bottom": 5,
+            "set_number": 1
+        },
+        {
+            "start_time": 770.9666666666667,
+            "end_time": 775.6333333333333,
+            "score_top": 4,
+            "score_bottom": 5,
+            "set_number": 1
+        },
+        {
+            "start_time": 806.8333333333334,
+            "end_time": 813.6666666666666,
+            "score_top": 6,
+            "score_bottom": 5,
+            "set_number": 1
+        },
+        {
+            "start_time": 833.1666666666666,
+            "end_time": 838.4666666666667,
+            "score_top": 7,
+            "score_bottom": 5,
+            "set_number": 1
+        },
+        {
+            "start_time": 851.6,
+            "end_time": 859.1999999999999,
+            "score_top": 8,
+            "score_bottom": 5,
+            "set_number": 1
+        },
+        {
+            "start_time": 873.8,
+            "end_time": 897.9666666666667,
+            "score_top": 8,
+            "score_bottom": 6,
+            "set_number": 1
+        },
+        {
+            "start_time": 921.9666666666667,
+            "end_time": 933.2333333333333,
+            "score_top": 9,
+            "score_bottom": 6,
+            "set_number": 1
+        },
+        {
+            "start_time": 953.3,
+            "end_time": 966.4,
+            "score_top": 10,
+            "score_bottom": 6,
+            "set_number": 1
+        },
+        {
+            "start_time": 982.3333333333334,
+            "end_time": 988.0666666666666,
+            "score_top": 10,
+            "score_bottom": 7,
+            "set_number": 1
+        },
+        {
+            "start_time": 1074.1666666666667,
+            "end_time": 1081.9333333333334,
+            "score_top": 11,
+            "score_bottom": 7,
+            "set_number": 1
+        },
+        {
+            "start_time": 1110.3,
+            "end_time": 1118.3666666666666,
+            "score_top": 13,
+            "score_bottom": 7,
+            "set_number": 1
+        },
+        {
+            "start_time": 1132.1666666666667,
+            "end_time": 1151.1,
+            "score_top": 13,
+            "score_bottom": 8,
+            "set_number": 1
+        },
+        {
+            "start_time": 1183.2,
+            "end_time": 1197.3,
+            "score_top": 14,
+            "score_bottom": 8,
+            "set_number": 1
+        },
+        {
+            "start_time": 1216.8333333333333,
+            "end_time": 1228.0333333333333,
+            "score_top": 15,
+            "score_bottom": 8,
+            "set_number": 1
+        },
+        {
+            "start_time": 1243.4,
+            "end_time": 1248.6,
+            "score_top": 16,
+            "score_bottom": 8,
+            "set_number": 1
+        },
+        {
+            "start_time": 1264.6333333333332,
+            "end_time": 1270.0666666666666,
+            "score_top": 17,
+            "score_bottom": 8,
+            "set_number": 1
+        },
+        {
+            "start_time": 1284.1666666666667,
+            "end_time": 1294.4666666666667,
+            "score_top": 17,
+            "score_bottom": 9,
+            "set_number": 1
+        },
+        {
+            "start_time": 1312.6666666666667,
+            "end_time": 1317.9,
+            "score_top": 18,
+            "score_bottom": 9,
+            "set_number": 1
+        },
+        {
+            "start_time": 1342.2333333333333,
+            "end_time": 1344.8333333333333,
+            "score_top": 19,
+            "score_bottom": 9,
+            "set_number": 1
+        },
+        {
+            "start_time": 1357.8666666666666,
+            "end_time": 1366.1666666666667,
+            "score_top": 19,
+            "score_bottom": 10,
+            "set_number": 1
+        },
+        {
+            "start_time": 1382.3666666666666,
+            "end_time": 1390.8,
+            "score_top": 20,
+            "score_bottom": 10,
+            "set_number": 1
+        },
+        {
+            "start_time": 1528.2333333333333,
+            "end_time": 1533.3666666666666,
+            "score_top": 0,
+            "score_bottom": 0,
+            "set_number": 2
+        },
+        {
+            "start_time": 1544.1666666666667,
+            "end_time": 1554.8666666666666,
+            "score_top": 1,
+            "score_bottom": 0,
+            "set_number": 2
+        },
+        {
+            "start_time": 1568.9333333333334,
+            "end_time": 1598.5333333333333,
+            "score_top": 2,
+            "score_bottom": 0,
+            "set_number": 2
+        },
+        {
+            "start_time": 1623.7333333333333,
+            "end_time": 1628.2333333333333,
+            "score_top": 3,
+            "score_bottom": 0,
+            "set_number": 2
+        },
+        {
+            "start_time": 1644.0,
+            "end_time": 1650.1333333333332,
+            "score_top": 4,
+            "score_bottom": 0,
+            "set_number": 2
+        },
+        {
+            "start_time": 1667.0333333333333,
+            "end_time": 1677.0,
+            "score_top": 5,
+            "score_bottom": 0,
+            "set_number": 2
+        },
+        {
+            "start_time": 1693.2,
+            "end_time": 1707.6666666666667,
+            "score_top": 6,
+            "score_bottom": 0,
+            "set_number": 2
+        },
+        {
+            "start_time": 1737.8333333333333,
+            "end_time": 1741.8,
+            "score_top": 7,
+            "score_bottom": 0,
+            "set_number": 2
+        },
+        {
+            "start_time": 1756.0333333333333,
+            "end_time": 1769.5,
+            "score_top": 7,
+            "score_bottom": 1,
+            "set_number": 2
+        },
+        {
+            "start_time": 1792.7333333333333,
+            "end_time": 1801.4666666666667,
+            "score_top": 8,
+            "score_bottom": 1,
+            "set_number": 2
+        },
+        {
+            "start_time": 1820.9666666666667,
+            "end_time": 1826.8,
+            "score_top": 9,
+            "score_bottom": 1,
+            "set_number": 2
+        },
+        {
+            "start_time": 1870.3666666666666,
+            "end_time": 1876.8999999999999,
+            "score_top": 10,
+            "score_bottom": 1,
+            "set_number": 2
+        },
+        {
+            "start_time": 1892.8,
+            "end_time": 1922.8,
+            "score_top": 10,
+            "score_bottom": 2,
+            "set_number": 2
+        },
+        {
+            "start_time": 1947.3333333333333,
+            "end_time": 1954.6333333333332,
+            "score_top": 10,
+            "score_bottom": 3,
+            "set_number": 2
+        },
+        {
+            "start_time": 2024.4333333333334,
+            "end_time": 2033.8666666666666,
+            "score_top": 11,
+            "score_bottom": 3,
+            "set_number": 2
+        },
+        {
+            "start_time": 2049.633333333333,
+            "end_time": 2052.3333333333335,
+            "score_top": 12,
+            "score_bottom": 3,
+            "set_number": 2
+        },
+        {
+            "start_time": 2067.2666666666664,
+            "end_time": 2073.4,
+            "score_top": 13,
+            "score_bottom": 3,
+            "set_number": 2
+        },
+        {
+            "start_time": 2109.6,
+            "end_time": 2118.5333333333333,
+            "score_top": 13,
+            "score_bottom": 4,
+            "set_number": 2
+        },
+        {
+            "start_time": 2147.2,
+            "end_time": 2163.5333333333333,
+            "score_top": 14,
+            "score_bottom": 4,
+            "set_number": 2
+        },
+        {
+            "start_time": 2179.233333333333,
+            "end_time": 2185.0333333333333,
+            "score_top": 14,
+            "score_bottom": 5,
+            "set_number": 2
+        },
+        {
+            "start_time": 2200.6,
+            "end_time": 2207.9666666666667,
+            "score_top": 15,
+            "score_bottom": 5,
+            "set_number": 2
+        },
+        {
+            "start_time": 2225.5333333333333,
+            "end_time": 2230.3,
+            "score_top": 16,
+            "score_bottom": 5,
+            "set_number": 2
+        },
+        {
+            "start_time": 2243.7666666666664,
+            "end_time": 2252.4,
+            "score_top": 16,
+            "score_bottom": 6,
+            "set_number": 2
+        },
+        {
+            "start_time": 2268.366666666667,
+            "end_time": 2274.8,
+            "score_top": 16,
+            "score_bottom": 7,
+            "set_number": 2
+        },
+        {
+            "start_time": 2290.4,
+            "end_time": 2303.233333333333,
+            "score_top": 16,
+            "score_bottom": 8,
+            "set_number": 2
+        },
+        {
+            "start_time": 2322.2,
+            "end_time": 2343.366666666667,
+            "score_top": 17,
+            "score_bottom": 8,
+            "set_number": 2
+        },
+        {
+            "start_time": 2373.233333333333,
+            "end_time": 2390.8,
+            "score_top": 17,
+            "score_bottom": 9,
+            "set_number": 2
+        },
+        {
+            "start_time": 2416.0666666666666,
+            "end_time": 2435.9,
+            "score_top": 18,
+            "score_bottom": 9,
+            "set_number": 2
+        },
+        {
+            "start_time": 2467.366666666667,
+            "end_time": 2480.633333333333,
+            "score_top": 18,
+            "score_bottom": 10,
+            "set_number": 2
+        },
+        {
+            "start_time": 2500.0666666666666,
+            "end_time": 2512.6,
+            "score_top": 19,
+            "score_bottom": 10,
+            "set_number": 2
+        },
+        {
+            "start_time": 2545.2666666666664,
+            "end_time": 2552.8333333333335,
+            "score_top": 20,
+            "score_bottom": 10,
+            "set_number": 2
+        },
+        {
+            "start_time": 2567.5666666666666,
+            "end_time": 2581.2,
+            "score_top": 20,
+            "score_bottom": 11,
+            "set_number": 2
+        }
+    ],
+    "name": "QF _ All England Open 2022 _ Tai Tzu Ying (TPE) [1] vs Nozomi Okuhara (JPN) [5]",
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/QF_R16_R32/QF _ All England Open 2022 _ Tai Tzu Ying (TPE) [1] vs Nozomi Okuhara (JPN) [5].mp4",
+    "top_player": "TAI T.Y.",
+    "bottom_player": "OKUHARA",
+    "time_played": 650.333333333343
+}

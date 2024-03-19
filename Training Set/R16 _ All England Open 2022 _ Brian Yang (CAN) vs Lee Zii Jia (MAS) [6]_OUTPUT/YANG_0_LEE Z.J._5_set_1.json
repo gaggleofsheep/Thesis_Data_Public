@@ -1,0 +1,27 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 1.3666666666666667,
+            "hit_frame": 41,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 2.1666666666666665,
+            "hit_frame": 65,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 4.0,
+            "hit_frame": 120,
+            "shot_number": 2
+        }
+    ],
+    "name": "YANG_0_LEE Z.J._5_set_1",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/QF_R16_R32/R16 _ All England Open 2022 _ Brian Yang (CAN) vs Lee Zii Jia (MAS) [6]_OUTPUT/YANG_0_LEE Z.J._5_set_1.mp4",
+    "top_player": "LEE Z.J.",
+    "bottom_player": "set",
+    "top_player_score": 5,
+    "bottom_player_score": 1,
+    "set_number": 0
+}

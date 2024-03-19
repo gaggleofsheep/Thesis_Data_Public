@@ -1,0 +1,92 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 1.4,
+            "hit_frame": 42,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 2.3333333333333335,
+            "hit_frame": 70,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 3.3666666666666667,
+            "hit_frame": 101,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 3.7666666666666666,
+            "hit_frame": 113,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 5.033333333333333,
+            "hit_frame": 151,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 5.966666666666667,
+            "hit_frame": 179,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 7.533333333333333,
+            "hit_frame": 226,
+            "shot_number": 6
+        },
+        {
+            "hit_time": 7.8999999999999995,
+            "hit_frame": 236,
+            "shot_number": 7
+        },
+        {
+            "hit_time": 8.933333333333334,
+            "hit_frame": 268,
+            "shot_number": 8
+        },
+        {
+            "hit_time": 9.7,
+            "hit_frame": 291,
+            "shot_number": 9
+        },
+        {
+            "hit_time": 10.6,
+            "hit_frame": 318,
+            "shot_number": 10
+        },
+        {
+            "hit_time": 11.933333333333334,
+            "hit_frame": 358,
+            "shot_number": 11
+        },
+        {
+            "hit_time": 12.633333333333333,
+            "hit_frame": 379,
+            "shot_number": 12
+        },
+        {
+            "hit_time": 13.566666666666666,
+            "hit_frame": 407,
+            "shot_number": 13
+        },
+        {
+            "hit_time": 14.7,
+            "hit_frame": 441,
+            "shot_number": 14
+        },
+        {
+            "hit_time": 15.5,
+            "hit_frame": 465,
+            "shot_number": 15
+        }
+    ],
+    "name": "YANG_10_LEE Z.J._19_set_2",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/QF_R16_R32/R16 _ All England Open 2022 _ Brian Yang (CAN) vs Lee Zii Jia (MAS) [6]_OUTPUT/YANG_10_LEE Z.J._19_set_2.mp4",
+    "top_player": "LEE Z.J.",
+    "bottom_player": "set",
+    "top_player_score": 19,
+    "bottom_player_score": 2,
+    "set_number": 10
+}

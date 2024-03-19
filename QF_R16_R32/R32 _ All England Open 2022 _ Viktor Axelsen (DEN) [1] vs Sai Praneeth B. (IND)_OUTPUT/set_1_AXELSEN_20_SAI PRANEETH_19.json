@@ -1,0 +1,47 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 0.6333333333333333,
+            "hit_frame": 19,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 1.4666666666666666,
+            "hit_frame": 44,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 2.6666666666666665,
+            "hit_frame": 80,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 3.4,
+            "hit_frame": 102,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 4.266666666666667,
+            "hit_frame": 128,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 5.066666666666666,
+            "hit_frame": 152,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 5.966666666666667,
+            "hit_frame": 179,
+            "shot_number": 6
+        }
+    ],
+    "name": "set_1_AXELSEN_20_SAI PRANEETH_19",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/QF_R16_R32/R32 _ All England Open 2022 _ Viktor Axelsen (DEN) [1] vs Sai Praneeth B. (IND)_OUTPUT/set_1_AXELSEN_20_SAI PRANEETH_19.mp4",
+    "top_player": "AXELSEN",
+    "bottom_player": "SAI PRANEETH",
+    "top_player_score": 20,
+    "bottom_player_score": 19,
+    "set_number": 1
+}

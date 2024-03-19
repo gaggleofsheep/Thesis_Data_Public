@@ -1,0 +1,394 @@
+{
+    "rally_array": [
+        {
+            "start_time": 381.8,
+            "end_time": 391.8666666666667,
+            "score_top": 0,
+            "score_bottom": 0,
+            "set_number": 1
+        },
+        {
+            "start_time": 405.76666666666665,
+            "end_time": 429.9,
+            "score_top": 0,
+            "score_bottom": 1,
+            "set_number": 1
+        },
+        {
+            "start_time": 466.8666666666667,
+            "end_time": 484.7,
+            "score_top": 0,
+            "score_bottom": 2,
+            "set_number": 1
+        },
+        {
+            "start_time": 510.93333333333334,
+            "end_time": 519.7666666666667,
+            "score_top": 1,
+            "score_bottom": 2,
+            "set_number": 1
+        },
+        {
+            "start_time": 544.3,
+            "end_time": 552.6333333333333,
+            "score_top": 2,
+            "score_bottom": 2,
+            "set_number": 1
+        },
+        {
+            "start_time": 574.4,
+            "end_time": 585.2333333333333,
+            "score_top": 3,
+            "score_bottom": 2,
+            "set_number": 1
+        },
+        {
+            "start_time": 605.2,
+            "end_time": 635.2,
+            "score_top": 4,
+            "score_bottom": 2,
+            "set_number": 1
+        },
+        {
+            "start_time": 682.2333333333333,
+            "end_time": 687.8,
+            "score_top": 5,
+            "score_bottom": 2,
+            "set_number": 1
+        },
+        {
+            "start_time": 703.1333333333333,
+            "end_time": 714.0666666666666,
+            "score_top": 6,
+            "score_bottom": 2,
+            "set_number": 1
+        },
+        {
+            "start_time": 730.5333333333333,
+            "end_time": 735.6333333333333,
+            "score_top": 7,
+            "score_bottom": 2,
+            "set_number": 1
+        },
+        {
+            "start_time": 753.8666666666667,
+            "end_time": 760.1333333333333,
+            "score_top": 7,
+            "score_bottom": 3,
+            "set_number": 1
+        },
+        {
+            "start_time": 789.7333333333333,
+            "end_time": 792.5666666666666,
+            "score_top": 7,
+            "score_bottom": 4,
+            "set_number": 1
+        },
+        {
+            "start_time": 804.3,
+            "end_time": 814.3,
+            "score_top": 8,
+            "score_bottom": 4,
+            "set_number": 1
+        },
+        {
+            "start_time": 838.0666666666666,
+            "end_time": 865.5666666666666,
+            "score_top": 9,
+            "score_bottom": 4,
+            "set_number": 1
+        },
+        {
+            "start_time": 910.5666666666666,
+            "end_time": 916.1333333333333,
+            "score_top": 10,
+            "score_bottom": 4,
+            "set_number": 1
+        },
+        {
+            "start_time": 981.7666666666667,
+            "end_time": 990.8333333333334,
+            "score_top": 11,
+            "score_bottom": 4,
+            "set_number": 1
+        },
+        {
+            "start_time": 1006.1,
+            "end_time": 1026.1,
+            "score_top": 12,
+            "score_bottom": 4,
+            "set_number": 1
+        },
+        {
+            "start_time": 1050.7333333333333,
+            "end_time": 1065.8666666666666,
+            "score_top": 13,
+            "score_bottom": 4,
+            "set_number": 1
+        },
+        {
+            "start_time": 1092.1666666666667,
+            "end_time": 1104.3,
+            "score_top": 14,
+            "score_bottom": 4,
+            "set_number": 1
+        },
+        {
+            "start_time": 1151.8666666666666,
+            "end_time": 1160.2666666666667,
+            "score_top": 15,
+            "score_bottom": 4,
+            "set_number": 1
+        },
+        {
+            "start_time": 1174.3,
+            "end_time": 1180.6,
+            "score_top": 16,
+            "score_bottom": 4,
+            "set_number": 1
+        },
+        {
+            "start_time": 1194.8,
+            "end_time": 1216.2333333333333,
+            "score_top": 17,
+            "score_bottom": 4,
+            "set_number": 1
+        },
+        {
+            "start_time": 1232.5333333333333,
+            "end_time": 1252.4666666666667,
+            "score_top": 18,
+            "score_bottom": 4,
+            "set_number": 1
+        },
+        {
+            "start_time": 1276.3666666666666,
+            "end_time": 1289.5,
+            "score_top": 19,
+            "score_bottom": 4,
+            "set_number": 1
+        },
+        {
+            "start_time": 1307.7666666666667,
+            "end_time": 1320.8666666666666,
+            "score_top": 20,
+            "score_bottom": 4,
+            "set_number": 1
+        },
+        {
+            "start_time": 1444.5666666666666,
+            "end_time": 1454.5666666666666,
+            "score_top": 0,
+            "score_bottom": 0,
+            "set_number": 2
+        },
+        {
+            "start_time": 1467.0333333333333,
+            "end_time": 1474.2,
+            "score_top": 1,
+            "score_bottom": 0,
+            "set_number": 2
+        },
+        {
+            "start_time": 1495.5333333333333,
+            "end_time": 1520.6333333333332,
+            "score_top": 2,
+            "score_bottom": 0,
+            "set_number": 2
+        },
+        {
+            "start_time": 1567.2333333333333,
+            "end_time": 1571.3333333333333,
+            "score_top": 3,
+            "score_bottom": 0,
+            "set_number": 2
+        },
+        {
+            "start_time": 1581.6,
+            "end_time": 1584.7333333333333,
+            "score_top": 4,
+            "score_bottom": 0,
+            "set_number": 2
+        },
+        {
+            "start_time": 1632.1666666666667,
+            "end_time": 1674.3999999999999,
+            "score_top": 4,
+            "score_bottom": 1,
+            "set_number": 2
+        },
+        {
+            "start_time": 1704.0666666666666,
+            "end_time": 1709.5,
+            "score_top": 4,
+            "score_bottom": 2,
+            "set_number": 2
+        },
+        {
+            "start_time": 1723.7666666666667,
+            "end_time": 1732.9333333333334,
+            "score_top": 5,
+            "score_bottom": 2,
+            "set_number": 2
+        },
+        {
+            "start_time": 1778.8666666666666,
+            "end_time": 1790.2666666666667,
+            "score_top": 6,
+            "score_bottom": 2,
+            "set_number": 2
+        },
+        {
+            "start_time": 1808.5333333333333,
+            "end_time": 1825.5333333333333,
+            "score_top": 6,
+            "score_bottom": 3,
+            "set_number": 2
+        },
+        {
+            "start_time": 1846.8666666666666,
+            "end_time": 1856.8,
+            "score_top": 7,
+            "score_bottom": 3,
+            "set_number": 2
+        },
+        {
+            "start_time": 1886.6666666666667,
+            "end_time": 1890.8333333333333,
+            "score_top": 8,
+            "score_bottom": 3,
+            "set_number": 2
+        },
+        {
+            "start_time": 1906.5,
+            "end_time": 1914.2666666666667,
+            "score_top": 9,
+            "score_bottom": 3,
+            "set_number": 2
+        },
+        {
+            "start_time": 1924.0333333333333,
+            "end_time": 1927.4333333333334,
+            "score_top": 10,
+            "score_bottom": 3,
+            "set_number": 2
+        },
+        {
+            "start_time": 1992.3999999999999,
+            "end_time": 2006.4333333333334,
+            "score_top": 11,
+            "score_bottom": 3,
+            "set_number": 2
+        },
+        {
+            "start_time": 2026.3999999999999,
+            "end_time": 2034.8,
+            "score_top": 11,
+            "score_bottom": 4,
+            "set_number": 2
+        },
+        {
+            "start_time": 2047.7333333333333,
+            "end_time": 2068.9,
+            "score_top": 12,
+            "score_bottom": 4,
+            "set_number": 2
+        },
+        {
+            "start_time": 2121.733333333333,
+            "end_time": 2125.4333333333334,
+            "score_top": 12,
+            "score_bottom": 5,
+            "set_number": 2
+        },
+        {
+            "start_time": 2146.5666666666666,
+            "end_time": 2154.2,
+            "score_top": 12,
+            "score_bottom": 6,
+            "set_number": 2
+        },
+        {
+            "start_time": 2167.366666666667,
+            "end_time": 2169.7,
+            "score_top": 13,
+            "score_bottom": 6,
+            "set_number": 2
+        },
+        {
+            "start_time": 2193.6,
+            "end_time": 2197.1666666666665,
+            "score_top": 13,
+            "score_bottom": 7,
+            "set_number": 2
+        },
+        {
+            "start_time": 2207.9333333333334,
+            "end_time": 2212.0,
+            "score_top": 14,
+            "score_bottom": 7,
+            "set_number": 2
+        },
+        {
+            "start_time": 2223.5333333333333,
+            "end_time": 2233.9666666666667,
+            "score_top": 15,
+            "score_bottom": 7,
+            "set_number": 2
+        },
+        {
+            "start_time": 2256.0333333333333,
+            "end_time": 2261.233333333333,
+            "score_top": 16,
+            "score_bottom": 7,
+            "set_number": 2
+        },
+        {
+            "start_time": 2281.866666666667,
+            "end_time": 2285.133333333333,
+            "score_top": 16,
+            "score_bottom": 8,
+            "set_number": 2
+        },
+        {
+            "start_time": 2297.7,
+            "end_time": 2302.6666666666665,
+            "score_top": 17,
+            "score_bottom": 8,
+            "set_number": 2
+        },
+        {
+            "start_time": 2324.5666666666666,
+            "end_time": 2343.0333333333333,
+            "score_top": 17,
+            "score_bottom": 9,
+            "set_number": 2
+        },
+        {
+            "start_time": 2361.6666666666665,
+            "end_time": 2367.3,
+            "score_top": 18,
+            "score_bottom": 9,
+            "set_number": 2
+        },
+        {
+            "start_time": 2387.6666666666665,
+            "end_time": 2413.2666666666664,
+            "score_top": 19,
+            "score_bottom": 9,
+            "set_number": 2
+        },
+        {
+            "start_time": 2427.6,
+            "end_time": 2434.133333333333,
+            "score_top": 20,
+            "score_bottom": 9,
+            "set_number": 2
+        }
+    ],
+    "name": "QF _ All England Open 2022 _ Viktor Axelsen (DEN) [1] vs Anthony Sinisuka Ginting (INA) [5]",
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/QF_R16_R32/QF _ All England Open 2022 _ Viktor Axelsen (DEN) [1] vs Anthony Sinisuka Ginting (INA) [5].mp4",
+    "top_player": "AXELSEN",
+    "bottom_player": "GINTING",
+    "time_played": 627.4333333333489
+}

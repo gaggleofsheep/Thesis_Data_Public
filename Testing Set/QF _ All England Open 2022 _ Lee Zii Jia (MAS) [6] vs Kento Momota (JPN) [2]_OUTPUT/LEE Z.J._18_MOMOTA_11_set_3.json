@@ -1,0 +1,112 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 1.0,
+            "hit_frame": 30,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 1.7666666666666666,
+            "hit_frame": 53,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 3.1666666666666665,
+            "hit_frame": 95,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 3.9,
+            "hit_frame": 117,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 4.666666666666667,
+            "hit_frame": 140,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 5.466666666666667,
+            "hit_frame": 164,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 5.866666666666666,
+            "hit_frame": 176,
+            "shot_number": 6
+        },
+        {
+            "hit_time": 6.733333333333333,
+            "hit_frame": 202,
+            "shot_number": 7
+        },
+        {
+            "hit_time": 7.6,
+            "hit_frame": 228,
+            "shot_number": 8
+        },
+        {
+            "hit_time": 8.766666666666666,
+            "hit_frame": 263,
+            "shot_number": 9
+        },
+        {
+            "hit_time": 9.266666666666666,
+            "hit_frame": 278,
+            "shot_number": 10
+        },
+        {
+            "hit_time": 10.066666666666666,
+            "hit_frame": 302,
+            "shot_number": 11
+        },
+        {
+            "hit_time": 11.066666666666666,
+            "hit_frame": 332,
+            "shot_number": 12
+        },
+        {
+            "hit_time": 11.8,
+            "hit_frame": 354,
+            "shot_number": 13
+        },
+        {
+            "hit_time": 14.033333333333333,
+            "hit_frame": 421,
+            "shot_number": 14
+        },
+        {
+            "hit_time": 14.633333333333333,
+            "hit_frame": 439,
+            "shot_number": 15
+        },
+        {
+            "hit_time": 15.766666666666666,
+            "hit_frame": 473,
+            "shot_number": 16
+        },
+        {
+            "hit_time": 16.566666666666666,
+            "hit_frame": 497,
+            "shot_number": 17
+        },
+        {
+            "hit_time": 17.566666666666666,
+            "hit_frame": 527,
+            "shot_number": 18
+        },
+        {
+            "hit_time": 18.8,
+            "hit_frame": 564,
+            "shot_number": 19
+        }
+    ],
+    "name": "LEE Z.J._18_MOMOTA_11_set_3",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/Testing Set/QF _ All England Open 2022 _ Lee Zii Jia (MAS) [6] vs Kento Momota (JPN) [2]_OUTPUT/LEE Z.J._18_MOMOTA_11_set_3.mp4",
+    "top_player": "MOMOTA",
+    "bottom_player": "set",
+    "top_player_score": 11,
+    "bottom_player_score": 3,
+    "set_number": 18
+}

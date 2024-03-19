@@ -1,0 +1,102 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 2.7,
+            "hit_frame": 81,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 3.1333333333333333,
+            "hit_frame": 94,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 3.8333333333333335,
+            "hit_frame": 115,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 4.866666666666666,
+            "hit_frame": 146,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 5.533333333333333,
+            "hit_frame": 166,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 6.266666666666667,
+            "hit_frame": 188,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 6.8999999999999995,
+            "hit_frame": 206,
+            "shot_number": 6
+        },
+        {
+            "hit_time": 7.833333333333333,
+            "hit_frame": 235,
+            "shot_number": 7
+        },
+        {
+            "hit_time": 8.933333333333334,
+            "hit_frame": 268,
+            "shot_number": 8
+        },
+        {
+            "hit_time": 9.966666666666667,
+            "hit_frame": 299,
+            "shot_number": 9
+        },
+        {
+            "hit_time": 11.033333333333333,
+            "hit_frame": 331,
+            "shot_number": 10
+        },
+        {
+            "hit_time": 11.966666666666667,
+            "hit_frame": 359,
+            "shot_number": 11
+        },
+        {
+            "hit_time": 12.566666666666666,
+            "hit_frame": 377,
+            "shot_number": 12
+        },
+        {
+            "hit_time": 13.233333333333333,
+            "hit_frame": 397,
+            "shot_number": 13
+        },
+        {
+            "hit_time": 14.299999999999999,
+            "hit_frame": 428,
+            "shot_number": 14
+        },
+        {
+            "hit_time": 15.4,
+            "hit_frame": 462,
+            "shot_number": 15
+        },
+        {
+            "hit_time": 16.433333333333334,
+            "hit_frame": 493,
+            "shot_number": 16
+        },
+        {
+            "hit_time": 17.566666666666666,
+            "hit_frame": 527,
+            "shot_number": 17
+        }
+    ],
+    "name": "TAI T.Y._13_OKUHARA_8_set_1",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/QF_R16_R32/QF _ All England Open 2022 _ Tai Tzu Ying (TPE) [1] vs Nozomi Okuhara (JPN) [5]_OUTPUT/TAI T.Y._13_OKUHARA_8_set_1.mp4",
+    "top_player": "OKUHARA",
+    "bottom_player": "set",
+    "top_player_score": 8,
+    "bottom_player_score": 1,
+    "set_number": 13
+}

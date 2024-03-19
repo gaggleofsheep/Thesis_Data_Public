@@ -1,0 +1,77 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 3.2,
+            "hit_frame": 96,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 3.8666666666666667,
+            "hit_frame": 116,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 4.933333333333334,
+            "hit_frame": 148,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 6.1,
+            "hit_frame": 183,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 7.0,
+            "hit_frame": 210,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 8.033333333333333,
+            "hit_frame": 241,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 9.3,
+            "hit_frame": 279,
+            "shot_number": 6
+        },
+        {
+            "hit_time": 10.366666666666667,
+            "hit_frame": 311,
+            "shot_number": 7
+        },
+        {
+            "hit_time": 10.933333333333334,
+            "hit_frame": 328,
+            "shot_number": 8
+        },
+        {
+            "hit_time": 11.933333333333334,
+            "hit_frame": 358,
+            "shot_number": 9
+        },
+        {
+            "hit_time": 12.433333333333334,
+            "hit_frame": 373,
+            "shot_number": 10
+        },
+        {
+            "hit_time": 13.299999999999999,
+            "hit_frame": 398,
+            "shot_number": 11
+        },
+        {
+            "hit_time": 14.166666666666666,
+            "hit_frame": 425,
+            "shot_number": 12
+        }
+    ],
+    "name": "TAI T.Y._0_OKUHARA_0_set_1",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/QF_R16_R32/QF _ All England Open 2022 _ Tai Tzu Ying (TPE) [1] vs Nozomi Okuhara (JPN) [5]_OUTPUT/TAI T.Y._0_OKUHARA_0_set_1.mp4",
+    "top_player": "OKUHARA",
+    "bottom_player": "set",
+    "top_player_score": 0,
+    "bottom_player_score": 1,
+    "set_number": 0
+}

@@ -1,0 +1,82 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 1.4666666666666666,
+            "hit_frame": 44,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 2.8666666666666667,
+            "hit_frame": 86,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 3.7333333333333334,
+            "hit_frame": 112,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 4.5,
+            "hit_frame": 135,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 5.833333333333333,
+            "hit_frame": 175,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 6.4,
+            "hit_frame": 192,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 7.3999999999999995,
+            "hit_frame": 221,
+            "shot_number": 6
+        },
+        {
+            "hit_time": 8.266666666666666,
+            "hit_frame": 247,
+            "shot_number": 7
+        },
+        {
+            "hit_time": 10.1,
+            "hit_frame": 303,
+            "shot_number": 8
+        },
+        {
+            "hit_time": 11.533333333333333,
+            "hit_frame": 346,
+            "shot_number": 9
+        },
+        {
+            "hit_time": 12.133333333333333,
+            "hit_frame": 364,
+            "shot_number": 10
+        },
+        {
+            "hit_time": 13.133333333333333,
+            "hit_frame": 394,
+            "shot_number": 11
+        },
+        {
+            "hit_time": 13.666666666666666,
+            "hit_frame": 410,
+            "shot_number": 12
+        },
+        {
+            "hit_time": 14.4,
+            "hit_frame": 432,
+            "shot_number": 13
+        }
+    ],
+    "name": "LEE Z.J._12_MOMOTA_9_set_2",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/Testing Set/QF _ All England Open 2022 _ Lee Zii Jia (MAS) [6] vs Kento Momota (JPN) [2]_OUTPUT/LEE Z.J._12_MOMOTA_9_set_2.mp4",
+    "top_player": "MOMOTA",
+    "bottom_player": "set",
+    "top_player_score": 9,
+    "bottom_player_score": 2,
+    "set_number": 12
+}

@@ -1,0 +1,87 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 1.0333333333333332,
+            "hit_frame": 30,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 1.7666666666666666,
+            "hit_frame": 53,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 2.6,
+            "hit_frame": 78,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 4.066666666666666,
+            "hit_frame": 122,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 4.833333333333333,
+            "hit_frame": 145,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 5.6,
+            "hit_frame": 168,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 6.4,
+            "hit_frame": 192,
+            "shot_number": 6
+        },
+        {
+            "hit_time": 7.3,
+            "hit_frame": 219,
+            "shot_number": 7
+        },
+        {
+            "hit_time": 9.166666666666666,
+            "hit_frame": 275,
+            "shot_number": 8
+        },
+        {
+            "hit_time": 9.733333333333333,
+            "hit_frame": 292,
+            "shot_number": 9
+        },
+        {
+            "hit_time": 10.6,
+            "hit_frame": 318,
+            "shot_number": 10
+        },
+        {
+            "hit_time": 11.366666666666667,
+            "hit_frame": 341,
+            "shot_number": 11
+        },
+        {
+            "hit_time": 12.6,
+            "hit_frame": 378,
+            "shot_number": 12
+        },
+        {
+            "hit_time": 13.566666666666666,
+            "hit_frame": 407,
+            "shot_number": 13
+        },
+        {
+            "hit_time": 14.4,
+            "hit_frame": 432,
+            "shot_number": 14
+        }
+    ],
+    "name": "LEE Z.J._6_MOMOTA_3_set_2",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/Testing Set/QF _ All England Open 2022 _ Lee Zii Jia (MAS) [6] vs Kento Momota (JPN) [2]_OUTPUT/LEE Z.J._6_MOMOTA_3_set_2.mp4",
+    "top_player": "MOMOTA",
+    "bottom_player": "set",
+    "top_player_score": 3,
+    "bottom_player_score": 2,
+    "set_number": 6
+}

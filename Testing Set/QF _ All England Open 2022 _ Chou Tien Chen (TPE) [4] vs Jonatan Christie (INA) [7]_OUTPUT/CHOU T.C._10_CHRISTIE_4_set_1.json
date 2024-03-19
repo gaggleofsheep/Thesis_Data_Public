@@ -1,0 +1,117 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 1.0666666666666667,
+            "hit_frame": 32,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 1.9333333333333333,
+            "hit_frame": 58,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 2.6,
+            "hit_frame": 78,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 3.533333333333333,
+            "hit_frame": 106,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 4.333333333333333,
+            "hit_frame": 130,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 5.4,
+            "hit_frame": 162,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 5.933333333333334,
+            "hit_frame": 178,
+            "shot_number": 6
+        },
+        {
+            "hit_time": 6.833333333333333,
+            "hit_frame": 205,
+            "shot_number": 7
+        },
+        {
+            "hit_time": 7.7,
+            "hit_frame": 231,
+            "shot_number": 8
+        },
+        {
+            "hit_time": 8.5,
+            "hit_frame": 255,
+            "shot_number": 9
+        },
+        {
+            "hit_time": 9.733333333333333,
+            "hit_frame": 292,
+            "shot_number": 10
+        },
+        {
+            "hit_time": 10.833333333333334,
+            "hit_frame": 325,
+            "shot_number": 11
+        },
+        {
+            "hit_time": 11.366666666666667,
+            "hit_frame": 341,
+            "shot_number": 12
+        },
+        {
+            "hit_time": 12.4,
+            "hit_frame": 372,
+            "shot_number": 13
+        },
+        {
+            "hit_time": 13.233333333333333,
+            "hit_frame": 397,
+            "shot_number": 14
+        },
+        {
+            "hit_time": 14.166666666666666,
+            "hit_frame": 425,
+            "shot_number": 15
+        },
+        {
+            "hit_time": 15.933333333333334,
+            "hit_frame": 478,
+            "shot_number": 16
+        },
+        {
+            "hit_time": 16.9,
+            "hit_frame": 506,
+            "shot_number": 17
+        },
+        {
+            "hit_time": 18.266666666666666,
+            "hit_frame": 548,
+            "shot_number": 18
+        },
+        {
+            "hit_time": 19.166666666666668,
+            "hit_frame": 575,
+            "shot_number": 19
+        },
+        {
+            "hit_time": 20.133333333333333,
+            "hit_frame": 604,
+            "shot_number": 20
+        }
+    ],
+    "name": "CHOU T.C._10_CHRISTIE_4_set_1",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/Testing Set/QF _ All England Open 2022 _ Chou Tien Chen (TPE) [4] vs Jonatan Christie (INA) [7]_OUTPUT/CHOU T.C._10_CHRISTIE_4_set_1.mp4",
+    "top_player": "CHRISTIE",
+    "bottom_player": "set",
+    "top_player_score": 4,
+    "bottom_player_score": 1,
+    "set_number": 10
+}

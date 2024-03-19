@@ -1,0 +1,77 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 1.6666666666666667,
+            "hit_frame": 50,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 2.9,
+            "hit_frame": 87,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 3.3333333333333335,
+            "hit_frame": 100,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 4.133333333333333,
+            "hit_frame": 123,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 4.833333333333333,
+            "hit_frame": 145,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 5.533333333333333,
+            "hit_frame": 166,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 6.366666666666666,
+            "hit_frame": 191,
+            "shot_number": 6
+        },
+        {
+            "hit_time": 7.6,
+            "hit_frame": 228,
+            "shot_number": 7
+        },
+        {
+            "hit_time": 8.0,
+            "hit_frame": 240,
+            "shot_number": 8
+        },
+        {
+            "hit_time": 9.033333333333333,
+            "hit_frame": 271,
+            "shot_number": 9
+        },
+        {
+            "hit_time": 10.133333333333333,
+            "hit_frame": 304,
+            "shot_number": 10
+        },
+        {
+            "hit_time": 11.233333333333333,
+            "hit_frame": 337,
+            "shot_number": 11
+        },
+        {
+            "hit_time": 12.4,
+            "hit_frame": 372,
+            "shot_number": 12
+        }
+    ],
+    "name": "CHOU T.C._1_CHRISTIE_4_set_2",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/Testing Set/QF _ All England Open 2022 _ Chou Tien Chen (TPE) [4] vs Jonatan Christie (INA) [7]_OUTPUT/CHOU T.C._1_CHRISTIE_4_set_2.mp4",
+    "top_player": "CHRISTIE",
+    "bottom_player": "set",
+    "top_player_score": 4,
+    "bottom_player_score": 2,
+    "set_number": 1
+}

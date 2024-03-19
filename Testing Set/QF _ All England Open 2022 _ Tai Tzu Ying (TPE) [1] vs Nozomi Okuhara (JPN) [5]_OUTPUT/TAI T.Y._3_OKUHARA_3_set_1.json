@@ -1,0 +1,82 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 2.7,
+            "hit_frame": 81,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 3.2,
+            "hit_frame": 96,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 4.133333333333333,
+            "hit_frame": 123,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 5.033333333333333,
+            "hit_frame": 151,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 7.166666666666667,
+            "hit_frame": 215,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 8.233333333333333,
+            "hit_frame": 246,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 10.1,
+            "hit_frame": 303,
+            "shot_number": 6
+        },
+        {
+            "hit_time": 10.6,
+            "hit_frame": 318,
+            "shot_number": 7
+        },
+        {
+            "hit_time": 11.1,
+            "hit_frame": 333,
+            "shot_number": 8
+        },
+        {
+            "hit_time": 11.6,
+            "hit_frame": 348,
+            "shot_number": 9
+        },
+        {
+            "hit_time": 13.033333333333333,
+            "hit_frame": 391,
+            "shot_number": 10
+        },
+        {
+            "hit_time": 14.133333333333333,
+            "hit_frame": 424,
+            "shot_number": 11
+        },
+        {
+            "hit_time": 15.133333333333333,
+            "hit_frame": 454,
+            "shot_number": 12
+        },
+        {
+            "hit_time": 15.866666666666667,
+            "hit_frame": 476,
+            "shot_number": 13
+        }
+    ],
+    "name": "TAI T.Y._3_OKUHARA_3_set_1",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/QF_R16_R32/QF _ All England Open 2022 _ Tai Tzu Ying (TPE) [1] vs Nozomi Okuhara (JPN) [5]_OUTPUT/TAI T.Y._3_OKUHARA_3_set_1.mp4",
+    "top_player": "OKUHARA",
+    "bottom_player": "set",
+    "top_player_score": 3,
+    "bottom_player_score": 1,
+    "set_number": 3
+}

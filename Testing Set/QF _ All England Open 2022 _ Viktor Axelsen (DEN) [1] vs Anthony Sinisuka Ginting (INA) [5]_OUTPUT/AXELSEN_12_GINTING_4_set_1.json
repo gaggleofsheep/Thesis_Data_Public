@@ -1,0 +1,107 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 0.36666666666666664,
+            "hit_frame": 11,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 1.1333333333333333,
+            "hit_frame": 34,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 2.433333333333333,
+            "hit_frame": 73,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 3.033333333333333,
+            "hit_frame": 91,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 3.966666666666667,
+            "hit_frame": 119,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 4.866666666666666,
+            "hit_frame": 146,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 6.966666666666667,
+            "hit_frame": 209,
+            "shot_number": 6
+        },
+        {
+            "hit_time": 7.833333333333333,
+            "hit_frame": 235,
+            "shot_number": 7
+        },
+        {
+            "hit_time": 9.1,
+            "hit_frame": 273,
+            "shot_number": 8
+        },
+        {
+            "hit_time": 9.633333333333333,
+            "hit_frame": 289,
+            "shot_number": 9
+        },
+        {
+            "hit_time": 10.333333333333334,
+            "hit_frame": 310,
+            "shot_number": 10
+        },
+        {
+            "hit_time": 11.366666666666667,
+            "hit_frame": 341,
+            "shot_number": 11
+        },
+        {
+            "hit_time": 13.133333333333333,
+            "hit_frame": 394,
+            "shot_number": 12
+        },
+        {
+            "hit_time": 14.6,
+            "hit_frame": 438,
+            "shot_number": 13
+        },
+        {
+            "hit_time": 15.166666666666666,
+            "hit_frame": 455,
+            "shot_number": 14
+        },
+        {
+            "hit_time": 16.2,
+            "hit_frame": 486,
+            "shot_number": 15
+        },
+        {
+            "hit_time": 17.1,
+            "hit_frame": 513,
+            "shot_number": 16
+        },
+        {
+            "hit_time": 17.5,
+            "hit_frame": 525,
+            "shot_number": 17
+        },
+        {
+            "hit_time": 18.433333333333334,
+            "hit_frame": 553,
+            "shot_number": 18
+        }
+    ],
+    "name": "AXELSEN_12_GINTING_4_set_1",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/QF_R16_R32/QF _ All England Open 2022 _ Viktor Axelsen (DEN) [1] vs Anthony Sinisuka Ginting (INA) [5]_OUTPUT/AXELSEN_12_GINTING_4_set_1.mp4",
+    "top_player": "GINTING",
+    "bottom_player": "set",
+    "top_player_score": 4,
+    "bottom_player_score": 1,
+    "set_number": 12
+}

@@ -1,0 +1,72 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 1.2333333333333334,
+            "hit_frame": 37,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 2.033333333333333,
+            "hit_frame": 61,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 3.3333333333333335,
+            "hit_frame": 100,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 4.2,
+            "hit_frame": 126,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 5.0,
+            "hit_frame": 150,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 5.8,
+            "hit_frame": 174,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 6.666666666666667,
+            "hit_frame": 200,
+            "shot_number": 6
+        },
+        {
+            "hit_time": 7.166666666666667,
+            "hit_frame": 215,
+            "shot_number": 7
+        },
+        {
+            "hit_time": 7.633333333333333,
+            "hit_frame": 229,
+            "shot_number": 8
+        },
+        {
+            "hit_time": 8.2,
+            "hit_frame": 245,
+            "shot_number": 9
+        },
+        {
+            "hit_time": 9.4,
+            "hit_frame": 282,
+            "shot_number": 10
+        },
+        {
+            "hit_time": 10.4,
+            "hit_frame": 312,
+            "shot_number": 11
+        }
+    ],
+    "name": "CHOU T.C._8_CHRISTIE_6_set_2",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/Testing Set/QF _ All England Open 2022 _ Chou Tien Chen (TPE) [4] vs Jonatan Christie (INA) [7]_OUTPUT/CHOU T.C._8_CHRISTIE_6_set_2.mp4",
+    "top_player": "CHRISTIE",
+    "bottom_player": "set",
+    "top_player_score": 6,
+    "bottom_player_score": 2,
+    "set_number": 8
+}

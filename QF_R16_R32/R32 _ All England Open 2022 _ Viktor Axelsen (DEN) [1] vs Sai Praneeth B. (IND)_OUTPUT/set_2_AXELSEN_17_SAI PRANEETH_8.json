@@ -1,0 +1,77 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 1.6333333333333333,
+            "hit_frame": 49,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 2.2333333333333334,
+            "hit_frame": 67,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 3.0,
+            "hit_frame": 90,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 3.7666666666666666,
+            "hit_frame": 113,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 4.333333333333333,
+            "hit_frame": 130,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 4.833333333333333,
+            "hit_frame": 145,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 5.4,
+            "hit_frame": 162,
+            "shot_number": 6
+        },
+        {
+            "hit_time": 6.533333333333333,
+            "hit_frame": 196,
+            "shot_number": 7
+        },
+        {
+            "hit_time": 7.966666666666667,
+            "hit_frame": 239,
+            "shot_number": 8
+        },
+        {
+            "hit_time": 8.766666666666666,
+            "hit_frame": 263,
+            "shot_number": 9
+        },
+        {
+            "hit_time": 9.766666666666666,
+            "hit_frame": 293,
+            "shot_number": 10
+        },
+        {
+            "hit_time": 10.966666666666667,
+            "hit_frame": 329,
+            "shot_number": 11
+        },
+        {
+            "hit_time": 12.266666666666666,
+            "hit_frame": 368,
+            "shot_number": 12
+        }
+    ],
+    "name": "set_2_AXELSEN_17_SAI PRANEETH_8",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/QF_R16_R32/R32 _ All England Open 2022 _ Viktor Axelsen (DEN) [1] vs Sai Praneeth B. (IND)_OUTPUT/set_2_AXELSEN_17_SAI PRANEETH_8.mp4",
+    "top_player": "AXELSEN",
+    "bottom_player": "SAI PRANEETH",
+    "top_player_score": 17,
+    "bottom_player_score": 8,
+    "set_number": 2
+}

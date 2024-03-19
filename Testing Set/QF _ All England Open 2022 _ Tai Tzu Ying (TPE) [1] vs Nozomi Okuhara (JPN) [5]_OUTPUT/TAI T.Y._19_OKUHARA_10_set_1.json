@@ -1,0 +1,52 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 2.8,
+            "hit_frame": 84,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 3.6333333333333333,
+            "hit_frame": 109,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 4.766666666666667,
+            "hit_frame": 143,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 5.433333333333334,
+            "hit_frame": 163,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 5.933333333333334,
+            "hit_frame": 178,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 6.366666666666666,
+            "hit_frame": 191,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 6.733333333333333,
+            "hit_frame": 202,
+            "shot_number": 6
+        },
+        {
+            "hit_time": 7.366666666666666,
+            "hit_frame": 221,
+            "shot_number": 7
+        }
+    ],
+    "name": "TAI T.Y._19_OKUHARA_10_set_1",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/QF_R16_R32/QF _ All England Open 2022 _ Tai Tzu Ying (TPE) [1] vs Nozomi Okuhara (JPN) [5]_OUTPUT/TAI T.Y._19_OKUHARA_10_set_1.mp4",
+    "top_player": "OKUHARA",
+    "bottom_player": "set",
+    "top_player_score": 10,
+    "bottom_player_score": 1,
+    "set_number": 19
+}

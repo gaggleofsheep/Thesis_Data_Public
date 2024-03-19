@@ -1,0 +1,42 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 0.6666666666666666,
+            "hit_frame": 20,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 1.4333333333333333,
+            "hit_frame": 43,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 2.433333333333333,
+            "hit_frame": 73,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 2.8666666666666667,
+            "hit_frame": 86,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 3.8,
+            "hit_frame": 114,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 4.566666666666666,
+            "hit_frame": 137,
+            "shot_number": 5
+        }
+    ],
+    "name": "AXELSEN_7_GINTING_3_set_1",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/QF_R16_R32/QF _ All England Open 2022 _ Viktor Axelsen (DEN) [1] vs Anthony Sinisuka Ginting (INA) [5]_OUTPUT/AXELSEN_7_GINTING_3_set_1.mp4",
+    "top_player": "GINTING",
+    "bottom_player": "set",
+    "top_player_score": 3,
+    "bottom_player_score": 1,
+    "set_number": 7
+}

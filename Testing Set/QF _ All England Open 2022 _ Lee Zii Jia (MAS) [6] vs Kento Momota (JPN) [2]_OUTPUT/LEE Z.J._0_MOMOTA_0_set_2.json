@@ -1,0 +1,22 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 1.1,
+            "hit_frame": 33,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 2.1333333333333333,
+            "hit_frame": 64,
+            "shot_number": 1
+        }
+    ],
+    "name": "LEE Z.J._0_MOMOTA_0_set_2",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/Testing Set/QF _ All England Open 2022 _ Lee Zii Jia (MAS) [6] vs Kento Momota (JPN) [2]_OUTPUT/LEE Z.J._0_MOMOTA_0_set_2.mp4",
+    "top_player": "MOMOTA",
+    "bottom_player": "set",
+    "top_player_score": 0,
+    "bottom_player_score": 2,
+    "set_number": 0
+}

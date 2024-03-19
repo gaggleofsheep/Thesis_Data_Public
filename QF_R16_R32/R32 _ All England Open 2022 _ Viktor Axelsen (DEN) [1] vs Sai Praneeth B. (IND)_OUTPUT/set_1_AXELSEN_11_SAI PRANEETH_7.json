@@ -1,0 +1,147 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 0.26666666666666666,
+            "hit_frame": 8,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 1.4,
+            "hit_frame": 42,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 1.8666666666666667,
+            "hit_frame": 56,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 2.5666666666666664,
+            "hit_frame": 77,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 3.433333333333333,
+            "hit_frame": 103,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 4.333333333333333,
+            "hit_frame": 130,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 6.166666666666667,
+            "hit_frame": 185,
+            "shot_number": 6
+        },
+        {
+            "hit_time": 6.833333333333333,
+            "hit_frame": 205,
+            "shot_number": 7
+        },
+        {
+            "hit_time": 7.566666666666666,
+            "hit_frame": 227,
+            "shot_number": 8
+        },
+        {
+            "hit_time": 8.366666666666667,
+            "hit_frame": 251,
+            "shot_number": 9
+        },
+        {
+            "hit_time": 9.433333333333334,
+            "hit_frame": 283,
+            "shot_number": 10
+        },
+        {
+            "hit_time": 10.833333333333334,
+            "hit_frame": 325,
+            "shot_number": 11
+        },
+        {
+            "hit_time": 11.466666666666667,
+            "hit_frame": 344,
+            "shot_number": 12
+        },
+        {
+            "hit_time": 12.4,
+            "hit_frame": 372,
+            "shot_number": 13
+        },
+        {
+            "hit_time": 13.366666666666667,
+            "hit_frame": 401,
+            "shot_number": 14
+        },
+        {
+            "hit_time": 14.9,
+            "hit_frame": 447,
+            "shot_number": 15
+        },
+        {
+            "hit_time": 15.866666666666667,
+            "hit_frame": 476,
+            "shot_number": 16
+        },
+        {
+            "hit_time": 16.433333333333334,
+            "hit_frame": 493,
+            "shot_number": 17
+        },
+        {
+            "hit_time": 17.3,
+            "hit_frame": 519,
+            "shot_number": 18
+        },
+        {
+            "hit_time": 18.5,
+            "hit_frame": 555,
+            "shot_number": 19
+        },
+        {
+            "hit_time": 19.066666666666666,
+            "hit_frame": 572,
+            "shot_number": 20
+        },
+        {
+            "hit_time": 19.8,
+            "hit_frame": 594,
+            "shot_number": 21
+        },
+        {
+            "hit_time": 20.8,
+            "hit_frame": 624,
+            "shot_number": 22
+        },
+        {
+            "hit_time": 21.3,
+            "hit_frame": 639,
+            "shot_number": 23
+        },
+        {
+            "hit_time": 22.233333333333334,
+            "hit_frame": 667,
+            "shot_number": 24
+        },
+        {
+            "hit_time": 23.666666666666668,
+            "hit_frame": 710,
+            "shot_number": 25
+        },
+        {
+            "hit_time": 24.266666666666666,
+            "hit_frame": 728,
+            "shot_number": 26
+        }
+    ],
+    "name": "set_1_AXELSEN_11_SAI PRANEETH_7",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/QF_R16_R32/R32 _ All England Open 2022 _ Viktor Axelsen (DEN) [1] vs Sai Praneeth B. (IND)_OUTPUT/set_1_AXELSEN_11_SAI PRANEETH_7.mp4",
+    "top_player": "AXELSEN",
+    "bottom_player": "SAI PRANEETH",
+    "top_player_score": 11,
+    "bottom_player_score": 7,
+    "set_number": 1
+}

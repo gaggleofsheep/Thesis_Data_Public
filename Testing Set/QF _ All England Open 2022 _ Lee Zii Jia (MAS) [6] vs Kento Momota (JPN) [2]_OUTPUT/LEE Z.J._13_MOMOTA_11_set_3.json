@@ -1,0 +1,92 @@
+{
+    "shot_array": [
+        {
+            "hit_time": 0.7,
+            "hit_frame": 21,
+            "shot_number": 0
+        },
+        {
+            "hit_time": 1.4333333333333333,
+            "hit_frame": 43,
+            "shot_number": 1
+        },
+        {
+            "hit_time": 2.2,
+            "hit_frame": 66,
+            "shot_number": 2
+        },
+        {
+            "hit_time": 3.1,
+            "hit_frame": 93,
+            "shot_number": 3
+        },
+        {
+            "hit_time": 4.9,
+            "hit_frame": 147,
+            "shot_number": 4
+        },
+        {
+            "hit_time": 5.433333333333334,
+            "hit_frame": 163,
+            "shot_number": 5
+        },
+        {
+            "hit_time": 6.233333333333333,
+            "hit_frame": 187,
+            "shot_number": 6
+        },
+        {
+            "hit_time": 7.0,
+            "hit_frame": 210,
+            "shot_number": 7
+        },
+        {
+            "hit_time": 7.766666666666667,
+            "hit_frame": 233,
+            "shot_number": 8
+        },
+        {
+            "hit_time": 9.1,
+            "hit_frame": 273,
+            "shot_number": 9
+        },
+        {
+            "hit_time": 9.766666666666666,
+            "hit_frame": 293,
+            "shot_number": 10
+        },
+        {
+            "hit_time": 10.7,
+            "hit_frame": 321,
+            "shot_number": 11
+        },
+        {
+            "hit_time": 11.6,
+            "hit_frame": 348,
+            "shot_number": 12
+        },
+        {
+            "hit_time": 12.466666666666667,
+            "hit_frame": 374,
+            "shot_number": 13
+        },
+        {
+            "hit_time": 13.633333333333333,
+            "hit_frame": 409,
+            "shot_number": 14
+        },
+        {
+            "hit_time": 15.066666666666666,
+            "hit_frame": 452,
+            "shot_number": 15
+        }
+    ],
+    "name": "LEE Z.J._13_MOMOTA_11_set_3",
+    "fps": 30,
+    "file_path": "C:/Users/hongz/Dev/Thesis/Match Footage/All England 2022 Games/Testing Set/QF _ All England Open 2022 _ Lee Zii Jia (MAS) [6] vs Kento Momota (JPN) [2]_OUTPUT/LEE Z.J._13_MOMOTA_11_set_3.mp4",
+    "top_player": "MOMOTA",
+    "bottom_player": "set",
+    "top_player_score": 11,
+    "bottom_player_score": 3,
+    "set_number": 13
+}
